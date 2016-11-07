@@ -3,7 +3,7 @@
 df <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E0.csv') # for PL
 df0 <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E1.csv') # for Championship
 df1 <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E2.csv') # for League One
-df2 <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E1.csv') # for League Two
+df2 <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E3.csv') # for League Two
 ##########################################################################################
 
 
