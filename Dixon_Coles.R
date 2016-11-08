@@ -70,7 +70,7 @@ DCoptimFn <- function(params, DCm){
 #}
 
 
-dta <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E0.csv')
+dta <- read.csv('http://www.football-data.co.uk/mmz4281/1617/E0.csv') # For 16/17 Premier League Season
 dcm <- DCmodelData(dta)
 nteams <- length(dcm$teams)
 
