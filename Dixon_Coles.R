@@ -102,7 +102,7 @@ res$par
 
 
 parameters <- res$par
-#compute Wolves attack parameter
+#compute 'missing team' attack parameter
 missing.attack <- sum(parameters[3:(nteams+1)]) * -1
 
 #put it in the parameters vector
